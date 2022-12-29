@@ -1,0 +1,24 @@
+.heading {
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+    font-style: bold;
+}
+
+.back {
+    float: right;
+}
+
+canvas {
+    margin-top: 100px;
+}
+
+body {
+    background-size: cover;
+}
+
+.btn {
+    font-size: 22px;
+    font-style: italic;
+}
+
